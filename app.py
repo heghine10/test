@@ -102,7 +102,7 @@ from functools import reduce
 # print(list(d))
 # print(list(d.items()))
 
-# creating a list of letters aaa
+# creating a list of letters aaa $
 b = {
     'a': 1,
     'b': 2,
